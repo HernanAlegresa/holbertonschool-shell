@@ -1,2 +1,2 @@
 #!/bin/ban
-chmod 701 hello
+chmod u+x hello
