@@ -1,2 +1,2 @@
 #!/bin/bash
-echo combination="$letter1$letter2"
+echo $combination
